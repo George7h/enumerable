@@ -62,18 +62,18 @@ Before running this project, make sure you have the following prerequisites inst
 
 ```sh
 git clone https://github.com/George7h/enumerable.git
-
+```
 
 2. Navigate to the project directory:
 
 ```sh
 cd enumerable
-
+```
 3. Run the program:
 
 ```sh
 ruby enumerable.rb
-
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
